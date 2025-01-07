@@ -1,5 +1,7 @@
 👋 Hi there! I'm Gagandeep
+
 🌟 An enthusiastic AI & Machine Learning student with a passion for creating impactful solutions.
+
 🛠️ Skilled Python Developer, adept at turning ideas into efficient code.
 
 🔭 What I'm working on:
