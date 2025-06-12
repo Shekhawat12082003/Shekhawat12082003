@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/hacker-screen-mastermind-pixel-jeff-nt0m8sakkytx3b8m.gif" alt="Gagandeep Singh Shekhawat" width="700"/>
+<img src="https://gifdb.com/images/high/hacker-screen-mastermind-pixel-jeff-nt0m8sakkytx3b8m.gif" alt="Gagandeep Singh Shekhawat"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Gagandeep Singh Shekhawat</h1>
